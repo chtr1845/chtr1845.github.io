@@ -1,4 +1,9 @@
+h1 p {
+    margin: 0px;
+    padding: 0px;
+}
+
 #wrapper {
-    padding: 10%;
+    padding: 5% 10% 5% 10%;
     width: 80%;
 }
